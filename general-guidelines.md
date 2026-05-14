@@ -1,0 +1,2 @@
+- Write numbers out in words when used in prose. "Over 30 million," not "30M+."
+- Remove em-dashes
